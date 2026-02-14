@@ -3,6 +3,7 @@ import Home from './pages/Home'
 import MenuMinuman from './pages/MenuMinuman'
 import MenuMakanan from './pages/MenuMakanan'
 import AboutYou from './pages/AboutYou'
+import Login from './pages/Login'
 
 function App() {
 
@@ -13,6 +14,7 @@ function App() {
         <Route path='/MenuMinuman' element={<MenuMinuman />}/>
         <Route path='/MenuMakanan' element={<MenuMakanan />}/>
         <Route path='/AboutYou' element={<AboutYou />}/>
+        <Route path='/Login' element={<Login />}/>
       </Routes>
     </main>
   )
