@@ -2,5 +2,5 @@
 @plugin "daisyui";
 
 body {
-  @apply min-h-screen bg-gray-100 font-sans;
+  @apply min-h-screen bg-gray-50 font-sans;
 }
