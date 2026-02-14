@@ -9,7 +9,7 @@ import MenuMinuman from "../data/menuMinum.json"
 
 function Home() {
   
-  const minumanBest = MenuMinuman.filter(minum => minum.isBestSeller === true);
+  const minumanBest = MenuMinuman.filter(minum => minum.isBestSeller == true);
 
   return (
     <>
