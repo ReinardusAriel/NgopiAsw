@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+body {
+  @apply min-h-screen bg-orange-200 font-sans;
+}

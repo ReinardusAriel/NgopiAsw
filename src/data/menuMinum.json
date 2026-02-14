@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "img": "https://blogstudio.s3.theshoppad.net/coffeeheroau/ec178d83e5f597b162cda1e60cb64194.jpg",
+    "title": "Espresso",
+    "price": 18000,
+    "desc": "Kopi hitam pekat dengan rasa kuat dan aroma intens.",
+    "isBestSeller": false
+  },
+  {
+    "id": 2,
+    "img": "https://i0.wp.com/kopidewa.com/wp-content/uploads/Americano-Vs-Long-Black.jpg?fit=960%2C640&ssl=1",
+    "title": "Americano",
+    "price": 20000,
+    "desc": "Espresso dengan tambahan air panas, ringan dan smooth.",
+    "isBestSeller": true
+  },
+  {
+    "id": 3,
+    "img": "https://api.omela.com/storage/1325/conversions/e68bad0655a2c75490ac4e1be59eaace-large.png",
+    "title": "Cappuccino",
+    "price": 22000,
+    "desc": "Perpaduan espresso, susu, dan foam yang lembut.",
+    "isBestSeller": true
+  },
+  {
+    "id": 4,
+    "img": "https://cms.starbucks.co.id/storage/image/temporary/summernote_image_1648177502.jpg",
+    "title": "Caffè Latte",
+    "price": 23000,
+    "desc": "Espresso dengan susu creamy yang seimbang dan halus.",
+    "isBestSeller": false
+  },
+  {
+    "id": 5,
+    "img": "https://images.unsplash.com/photo-1541167760496-1628856ab772",
+    "title": "Mocha",
+    "price": 25000,
+    "desc": "Kombinasi kopi, cokelat, dan susu yang manis legit.",
+    "isBestSeller": true
+  },
+  {
+    "id": 6,
+    "img": "https://perfectdailygrind.com/wp-content/uploads/2018/11/flat-white-1024x640.jpg",
+    "title": "Flat White",
+    "price": 24000,
+    "desc": "Espresso dengan microfoam susu yang lembut dan creamy.",
+    "isBestSeller": false
+  },
+  {
+    "id": 7,
+    "img": "https://www.nescafe.com/id/sites/default/files/2025-03/Macchiato-Bukan-Varian-Kopi-Susu-Simak-Penjelasan-Berikut-Ini._deskjpg.jpg",
+    "title": "Macchiato",
+    "price": 21000,
+    "desc": "Espresso dengan sentuhan susu untuk rasa seimbang.",
+    "isBestSeller": false
+  },
+  {
+    "id": 8,
+    "img": "https://tradisikuliner.com/wp-content/uploads/2025/05/dessert-affogato-khas-italy.jpg",
+    "title": "Affogato",
+    "price": 28000,
+    "desc": "Espresso panas disajikan dengan es krim vanilla.",
+    "isBestSeller": true
+  },
+  {
+    "id": 9,
+    "img": "https://images.unsplash.com/photo-1523362628745-0c100150b504",
+    "title": "Iced Americano",
+    "price": 21000,
+    "desc": "Americano dingin yang segar dan ringan.",
+    "isBestSeller": false
+  },
+  {
+    "id": 10,
+    "img": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735",
+    "title": "Iced Latte",
+    "price": 24000,
+    "desc": "Espresso dingin dengan susu yang creamy dan fresh.",
+    "isBestSeller": false
+  },
+  {
+    "id": 11,
+    "img": "https://images.carbmanager.com/_N0DGizQwmXaTlP31vCAYya5pKsr4d4SARw8dw9OK4g/resize:fit:1110/L2Fzc2V0cy5jYXJibWFuYWdlci5jb20vby91c2VyJTJGNGdkMlJoRVpqM2NGR1NKWDVuYjhFQzROWjBEMiUyRmltYWdlcyUyRjI4MGE4OTkyLTc4MTEtNDg3NS05MjYwLTViOGZlNzllNjgxZS5qcGc_YWx0PW1lZGlh",
+    "title": "Iced Cappuccino",
+    "price": 23000,
+    "desc": "Cappuccino dingin dengan rasa ringan dan creamy.",
+    "isBestSeller": false
+  },
+  {
+    "id": 12,
+    "img": "https://www.nescafe.com/id/sites/default/files/2023-08/Perbedaan%20Kopi%20Susu%20Caramel%20Latte%20dan%20Caramel%20Macchiato%20yang%20Perlu%20Kamu%20Ketahui_hero.jpg",
+    "title": "Caramel Latte",
+    "price": 26000,
+    "desc": "Latte manis dengan sentuhan rasa caramel.",
+    "isBestSeller": false
+  },
+  {
+    "id": 13,
+    "img": "https://augasonfarms.com/cdn/shop/articles/vanilla-latte-284955_1136x.webp?v=1744390539",
+    "title": "Vanilla Latte",
+    "price": 26000,
+    "desc": "Latte lembut dengan aroma vanilla yang wangi.",
+    "isBestSeller": false
+  },
+  {
+    "id": 14,
+    "img": "https://cdn0-production-images-kly.akamaized.net/LasEk1Fd8ZzvI85uvSgOeL3egvY=/1x104:1000x667/469x260/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4160555/original/098949100_1663311298-shutterstock_2092331065.jpg",
+    "title": "Hazelnut Latte",
+    "price": 26000,
+    "desc": "Latte creamy dengan rasa kacang hazelnut yang khas.",
+    "isBestSeller": false
+  }
+]
