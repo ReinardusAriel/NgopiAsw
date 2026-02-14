@@ -26,7 +26,7 @@ function Navbar(){
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1">
-                <li><a>Pesan</a></li>
+                <li><Link to={"/Pesanan"}>Pesan</Link></li>
                 <li>
                     <details>
                     <summary>Menu</summary>
@@ -39,8 +39,9 @@ function Navbar(){
                 <li><Link to="/AboutYou">About Youuu</Link></li>
                 </ul>
             </div>
-            <div className="navbar-end">
-                <a className="btn"><Link to={"/Login"}>Login</Link></a>
+            <div className="navbar-end gap-5">
+                <a className="btn w-20"><Link to={"/Login"}>Login</Link></a>
+                <a className="btn w-20"><Link to={"/Register"}>Register</Link></a>
             </div>
         </div>
     )

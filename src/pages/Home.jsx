@@ -12,7 +12,7 @@ function Home() {
   const minumanBest = MenuMinuman.filter(minum => minum.isBestSeller == true);
 
   return (
-    <>
+    <>  
         <Navbar />
         <Hero />
         <div className="flex justify-center ">
